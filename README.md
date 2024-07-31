@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TYPESCRIPT**
 
-- 💬 Ask me about **HTML, CSS BOOTSTRAP, JAVASCRIPT,ANGULAR**
+- 💬 Ask me about **HTML, CSS BOOTSTRAP, JAVASCRIPT,ANGULAR,GAME TESTING**
 
 - 📫 How to reach me **pavankalyanssmunagala@gmail.com**
 
